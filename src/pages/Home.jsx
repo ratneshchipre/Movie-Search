@@ -65,7 +65,7 @@ const Home = () => {
                     <input
                         type="text"
                         placeholder='Search here...'
-                        className='w-[15rem] sm:w-[25rem] border-[1.5px] border-t-border border-l-border border-b-border bg-white outline-none py-[0.5rem] px-[1rem] text-[1rem] rounded-l-[0.6rem] shadow-[1px_0_10px_rgba(0,0,0,0.1)]'
+                        className='w-[15rem] sm:w-[25rem] border-[1.5px] border-t-border border-l-border border-b-border bg-white outline-none py-[0.48rem] px-[1rem] text-[1rem] rounded-l-[0.6rem] shadow-[1px_0_10px_rgba(0,0,0,0.1)]'
                         ref={inputRef}
                     />
 
