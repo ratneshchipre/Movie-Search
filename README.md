@@ -1,8 +1,9 @@
-# React + Vite
+# 👀 Live Preview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Click below to view the live preview:👇
 
-Currently, two official plugins are available:
+https://movie-search-seven-mu.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📹 Video 
+
+https://github.com/user-attachments/assets/e21c6b7e-166d-4baa-aca7-72e3e9fe3466
