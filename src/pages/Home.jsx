@@ -38,8 +38,13 @@ const Home = () => {
 
         try {
             const searchResults = await getMovieBySearch(inputValue);
-            setMovies(searchResults);
-            setError(null);
+            if (searchResults && searchResults.length > 0) {
+                setMovies(searchResults);
+                setError(null)
+              } else {
+                setMovies([]);
+                setError("No movies found! Try searching something else.");
+              }
         } catch (error) {
             setError('Failed to get the results...');
             console.log(error);
